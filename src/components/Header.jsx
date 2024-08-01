@@ -7,13 +7,13 @@ export default function Header() {
                 <LogoHidelmo className="w-16 inline mx-4" />
                 <span className="inline  text-4xl ">
                     <div className="underline">
-                        Empresa
-                    </div> 
+                        H&C Gestión 
+                    </div>  
                     <div className=" text-xl">
-                        estudio contable SAC
+                     contable SAC
                     </div>
                 </span>
-                
+
             </a>
             <nav className="gap-2 flex [&>a]:px-4 [&>a]:min-h-8 text-center mr-4">
                 <a href="" className="flex items-center truncate hover:rounded-lg hover:bg-white/50 hover:backdrop-blur-xl">Inicio</a>

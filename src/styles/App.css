@@ -1,3 +1,11 @@
 .card{
     flex: 1 0 calc(19% );
 }
+
+html{
+    font-family: 'Onest Variable', sans-serif;
+}
+
+.plan{
+    flex: 1 0 calc(30% );
+}
