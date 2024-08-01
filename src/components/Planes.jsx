@@ -26,7 +26,7 @@ const PlanesJsonPrueba = [
         ]
     },
     {
-        nombrePlan: "Plan Empresarial",
+        nombrePlan: "Plan Vision",
         precio: "500",
         incluye: [
             "Calculo de los Impuestos a Pagar a SUNAT",
@@ -52,7 +52,7 @@ const PlanesJsonPrueba = [
         ]
     },
     {
-        nombrePlan: "Plan emprendedor",
+        nombrePlan: "Plan Empresarial",
         precio: "700",
         incluye: [
             "Calculo de los Impuestos a Pagar a SUNAT",
